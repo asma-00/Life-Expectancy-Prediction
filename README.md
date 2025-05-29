@@ -35,7 +35,7 @@ It contains socio-economic and health-related indicators for multiple countries 
 4. **Modeling**
    - Linear Regression
    - Ridge Regression
-   - Random Forest Regressor ✅
+   - Random Forest Regressor
    - XGBoost Regressor
 
 5. **Evaluation**
